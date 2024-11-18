@@ -18,19 +18,12 @@ The project involves managing complex data structures and optimizing knight move
 
 ## Examples
 Here is an example of how to use the program:
-input:
-Starting position: A5
-output:
-   1  2  3  4  5
-A|23|20|15|10| 1|
+input =A5- you will see all the tour of the knight.
+input =A2- not knight tour.
 
-B|14| 9|22| 5|16|
 
-C|21|24|19| 2|11|
 
-D| 8|13| 4|17| 6|
 
-E|25|18| 7|12| 3|
 ןמאמg
 
 
