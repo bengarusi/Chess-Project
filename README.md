@@ -2,8 +2,7 @@
 # Chess Knight Moves on a 5x5 Board
 
 ## Project Overview
-This project implements a program to simulate the legal moves of a knight on a 5x5 chessboard. The program allows users to explore and manage possible knight movement paths using data structures designed to store board positions and movement paths.
-
+This project implements a program to simulate the legal moves of a knight on a 5x5 chessboard. The program allows users to explore and manage possible knight movement paths using data structures designed to store board positions and movement paths. Additionally, the program determines whether it is possible for the knight to perform a complete tour of the board, starting from a given position, such that the knight visits every position on the board exactly once.
 ## File Structure
 - **main.c**: The main file, handling input/output and core program logic.
 - **Section1.h / section1.c**: Functions to calculate all possible knight moves from any position on a 5x5 board.
