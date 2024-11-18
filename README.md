@@ -1,6 +1,4 @@
 
----
-
 # Chess Knight Moves on a 5x5 Board
 
 ## Project Overview
