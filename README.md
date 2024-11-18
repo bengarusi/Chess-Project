@@ -15,3 +15,18 @@ This project implements a program to simulate the legal moves of a knight on a 5
 
 ## Challenges and Insights
 The project involves managing complex data structures and optimizing knight movement path calculations while adhering to the constraints of a 5x5 board.
+
+## Examples
+Here is an example of how to use the program:
+input:
+Starting position: A5
+output:
+   1  2  3  4  5
+A|23|20|15|10| 1|
+B|14| 9|22| 5|16|
+C|21|24|19| 2|11|
+D| 8|13| 4|17| 6|
+E|25|18| 7|12| 3|
+ןמאמg
+
+
