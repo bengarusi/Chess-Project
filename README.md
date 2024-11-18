@@ -18,5 +18,7 @@ The project involves managing complex data structures and optimizing knight move
 
 ## Examples
 Here is an example of how to use the program:
+
 input =A5- you will see all the tour of the knight.
+
 input =A2- not knight tour.
